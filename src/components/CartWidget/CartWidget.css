@@ -1,0 +1,10 @@
+.cart-number {
+  background-color: rgb(224, 59, 224);
+  position: relative;
+  left: -10px;
+  border-radius: 15px;
+  padding: 3px 6px;
+  font-size: 8px;
+  bottom: -10px;
+  color: white;
+}
